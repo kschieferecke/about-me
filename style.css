@@ -8,9 +8,8 @@ h1 {
 #container {
     color: black;
     background-color: white;
-    text-align: center;
     width:50%;
-    margin: 20px 0px 0px 0px;
+    margin: 20px auto 0 auto;
     padding: 20px;
     font-family: 'Asap', sans-serif;
     /*comment: the css box model is a box that wraps
@@ -18,8 +17,6 @@ h1 {
     classifies how wide the box is going to be, the 
     margin element tells the box to widen the margin 
     on the top by 20 pixels*/
-    
-
 }
 
 
@@ -46,4 +43,8 @@ h1 {
 }
 img{
     width:300px;
+}
+.links{
+    color: #a64ac9;
+    
 }
